@@ -1,5 +1,4 @@
-# Python_Projects
-My Python Projects
+# S&P500 predictor
 
 
 Badr Alshehri Project S&P500 predictor:
